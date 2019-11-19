@@ -1,4 +1,6 @@
 
 public class HelloWorldDT {
-//nothing here
+	public static void main(String args[]){
+		System.out.println("hello world");
+	}
 }
