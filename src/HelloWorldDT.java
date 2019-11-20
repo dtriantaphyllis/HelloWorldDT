@@ -1,5 +1,7 @@
+package helloworlddt;
 
-public class HelloWorldDT
-{
-//lmao i deleted everything
+public class HelloWorldDT{
+    public static void main(String[] args) {
+        System.out.println("epic");
+    }
 }
